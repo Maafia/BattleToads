@@ -1,0 +1,17 @@
+FOR ALL VERSIONS OF THE GAME:
+-Player 2 can now move and complete "Clinger Wingers" (Infamous battle toads bug) 
+-Adding the unused track to play on Terra tubes (so all levels have unique music)
+
+For MODERN:
+-INFINITE CONTINUES (As the name suggests, 
+if battle toads was released today, it would have infinite continues, so thats what has been added)
+-Player 2 can now move and complete "Clinger Wingers" (Infamous battle toads bug) 
+-Adding the unused track to play on Terra tubes (so all levels have unique music)
+
+For INFINITE:
+-INFINITE LIVES (for people who want the easiest difficulty)
+-INFINITE CONTINUES 
+-Player 2 can now move and complete "Clinger Wingers" (Infamous battle toads bug) 
+-Adding the unused track to play on Terra tubes (so all levels have unique music)
+
+
