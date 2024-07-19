@@ -4,6 +4,13 @@ An Hot Fix Update for the classic NES title, BATTLE TOADS! Fixing the infamous b
 As its notoriously known, the Clinger Winger Glitch was released with the US version of the game, 2 players can not play through level 11 as the timer on Zitz is broken.
 This patch fixes that, and adds the unused track into the game so that all stages have unique music too! 
 Along with those 2 important changes, I created 2 extra patches for players who want to try to give battle toads a go for themselves.
+
+# Instructions / How To Patch
+Take your Battletoads (USA).nes Rom, click and drag it over the "windows-drag-here.bat" file,
+and it should patch all the roms for you, they will sit in the folder called "Output". 
+Note: If the rom doesnt work with the bat file, 
+you might own the "headerless" rom, Get a different Rom (headered) and try again. 
+
 # Version 1.1
 This version leaves the OG NES Battletoads untouched, but with two changes:
 
